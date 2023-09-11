@@ -7,7 +7,6 @@ categories = [
     "Test"
 ]
 tags = [
-    "emoji",
 ]
 image = "the-creative-exchange-d2zvqp3fpro-unsplash.jpg"
 +++
