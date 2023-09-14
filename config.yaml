@@ -27,7 +27,7 @@ languages:
     #         description: وصف تجريبي
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: conditionalwind
 
 # GA Tracking ID
 googleAnalytics:
@@ -80,8 +80,8 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: "conditionalwind"
-            apiUrl: 
+            shortname: conditionalwind
+            apiUrl:
             apiKey: 
             admin:
             adminLabel:
