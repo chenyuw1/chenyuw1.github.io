@@ -44,8 +44,8 @@ tags:
 这首歌现在唱到这里，
 
 > Watch the sunrise as we’re getting old
-I can’t describe
-I wish I could live through every memory again
+> I can’t describe
+> I wish I could live through every memory again
 > 
 
 哇贴完歌词才发现，这何尝不是一种向天再借五百年呢（不是！！），好了气氛全没了，散会散会，明年再会！
