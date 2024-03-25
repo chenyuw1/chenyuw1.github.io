@@ -43,8 +43,8 @@ tags:
 
 这首歌现在唱到这里，
 
-> Watch the sunrise as we’re getting old \n
-> I can’t describe \n
+> Watch the sunrise as we’re getting old /
+> I can’t describe /
 > I wish I could live through every memory again
 > 
 
