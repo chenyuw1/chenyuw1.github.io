@@ -1,7 +1,8 @@
 baseurl: https://chenyuw1.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
-paginate: 5
+pagination:
+  pagerSize: 5
 title: Conditional Wind
 copyright: windfallll
 
