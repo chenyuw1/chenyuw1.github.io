@@ -73,7 +73,7 @@ params:
         readingTime: true
         license:
             enabled: true
-            default: 2024 windfallll All Rights Reserved.
+            default: 2025 windfallll All Rights Reserved.
 
     comments:
         enabled: true
