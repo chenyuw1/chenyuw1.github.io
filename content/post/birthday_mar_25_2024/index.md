@@ -5,6 +5,9 @@ date: 2024-03-25
 image: IMG_6615.jpeg
 tags:
     - 行万里路
+categories: [
+    "EOY"
+]
 ---
 
 
