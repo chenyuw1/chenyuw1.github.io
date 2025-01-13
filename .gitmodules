@@ -1,0 +1,3 @@
+[submodule "hugo-theme-stack-fork"]
+	path = themes/hugo-theme-stack-fork
+	url = https://github.com/chenyuw1/hugo-theme-stack.git
