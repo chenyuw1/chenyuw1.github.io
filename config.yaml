@@ -78,7 +78,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: twikoo
 
         disqusjs:
             shortname: conditionalwind
@@ -121,7 +121,7 @@ params:
                 placeholder:
 
         twikoo:
-            envId:
+            envId: https://flourishing-kangaroo-cbb9dd.netlify.app/.netlify/functions/twikoo
             region:
             path:
             lang:
