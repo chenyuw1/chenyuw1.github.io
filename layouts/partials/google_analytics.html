@@ -3,14 +3,4 @@
   {{ template "_internal/google_analytics.html" . }}
 {{ end }} -->
 
-{{/* Renders only if an ID is set; no dependency on Hugo internals. */}}
-{{- $gaid := or .Site.GoogleAnalytics .Site.Params.google_analytics_id -}}
-{{- with $gaid -}}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '{{ . }}');
-</script>
-{{- end -}}
+{{/* no-op: satisfy theme include without output */}}
