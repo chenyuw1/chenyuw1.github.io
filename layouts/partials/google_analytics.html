@@ -1,6 +1,1 @@
-<!-- {{/* Prevents template error when theme calls this partial */}}
-{{ if templates.Exists "_internal/google_analytics.html" }}
-  {{ template "_internal/google_analytics.html" . }}
-{{ end }} -->
-
-{{/* no-op: satisfy theme include without output */}}
+{{/* no-op: satisfy the theme include without relying on Hugo internals */}}
