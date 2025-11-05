@@ -1,0 +1,16 @@
+<!-- <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+<script type='text/javascript'>kofiwidget2.init('请我喝（半）杯咖啡', '#72a4f2', 'I3I31NSTMD');kofiwidget2.draw();</script>  -->
+
+{{ if or (eq .Section "post") (eq .Type "post") }}
+  <section class="kofi-line" aria-label="Support the author">
+    <p>
+      如果你喜欢这篇博客，欢迎
+      <a href="https://ko-fi.com/I3I31NSTMD"
+         target="_blank"
+         rel="noopener"
+         class="kofi-link">
+         请我喝杯咖啡 ☕
+      </a>.
+    </p>
+  </section>
+{{ end }}

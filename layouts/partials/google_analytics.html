@@ -1,0 +1,4 @@
+{{/* Prevents template error when theme calls this partial */}}
+{{ if templates.Exists "_internal/google_analytics.html" }}
+  {{ template "_internal/google_analytics.html" . }}
+{{ end }}

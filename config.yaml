@@ -201,7 +201,19 @@ params:
 menu:
     main: []
 
-    # social:
+    social:
+        - identifier: mastodon
+          name: Mastodon
+          url: https://go5.dev/@windfallll
+          params:
+              icon: brand-mastodon
+        
+        - identifier: kofi
+          name: Buy me a coffee
+          url: https://ko-fi.com/windfallll
+          params:
+              icon: coffee
+
     #     - identifier: github
     #       name: GitHub
     #       url: https://github.com/CaiJimmy/hugo-theme-stack
