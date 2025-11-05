@@ -1,5 +1,8 @@
 <!-- emoji 可为多个，但必须要在前面的可识别列表里出现 -->
-<open-heart href="https://worker-test.openheart-reaction.workers.dev/{{ .Permalink }}" emoji="❤️">❤️</open-heart>
+<!-- <open-heart href="https://worker-test.openheart-reaction.workers.dev/{{ .Permalink }}" emoji="❤️">❤️</open-heart> -->
+<open-heart
+  href="https://worker-test.openheart-reaction.workers.dev/reactions?id={{ .RelPermalink }}"
+  emoji="❤️">❤️</open-heart>
 
 <!-- load web component -->
 <script src="https://unpkg.com/open-heart-element" type="module"></script>
